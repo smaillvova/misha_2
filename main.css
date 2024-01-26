@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(16, 33, 83);
+    color: skyblue;
+}
+header
+{
+background-color:darkblue ;
+padding: 20px;
+border-radius: 100px;
+text-align: center;
+
+
+}
+main{
+    font-size: 30px;
+}
+
+main p {
+    background-color: rgb(15, 15, 236);
+    border-radius: 30px;
+    padding: 20px;
+}
+nav a{
+    margin: 80px;
+    font-size: 28px;
+    text-decoration: dodgerblue;
+    color: cornflowerblue;
+    border: rgb(41, 103, 218);
+    border-radius: 10px;
+    background-color: rgb(11, 77, 77);
+}
+.popular{
+background-color: rgb(41, 121, 121);
+color: rgb(84, 150, 150);
+
+}
+
+img{
+    border-radius: 9px;
+}
